@@ -642,7 +642,7 @@ if "tradelog" in st.session_state and st.session_state["tradelog"] is not None:
 
     with tab3:
 
-        col1, col2, col3 = st.columns([0.5, 0.6, 0.5])
+        col1, col2, col3 = st.columns([0.5, 0.8, 0.5])
 
         with col2:
             # Calculate metrics for all trades and last 20 trades
