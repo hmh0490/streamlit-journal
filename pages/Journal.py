@@ -3,6 +3,17 @@ import pandas as pd
 import numpy as np
 import os
 from navigation import make_sidebar
+import requests
+from io import StringIO
+
+def load_data():
+    url = 'https://raw.githubusercontent.com/hmh0490/streamlit-journal/refs/heads/master/tradelog_updated.csv'
+    response = requests.get(url)
+    if response.status_code == 200:
+        return pd.read_csv(StringIO(response.text))
+    else:
+        st.error("Failed to load data from GitHub.")
+        return None
 
 # # Set the page configuration to wide layout
 st.set_page_config(page_title="Trading Dashboard", layout="centered")
@@ -129,17 +140,17 @@ with tab1:
     # ****** READ IN THE TRADELOG AND PERFORM CALCULATIONS *****
 
     # Function to load the tradelog from disk if it exists
-    def load_tradelog():
-        if os.path.exists(file_path):
-            return pd.read_csv(file_path)
-        else:
-            return None
+    # def load_tradelog():
+    #     if os.path.exists(file_path):
+    #         return pd.read_csv(file_path)
+    #     else:
+    #         return None
 
 
     # Check if trade log data already exists in session_state
     if "tradelog" not in st.session_state:
         # Load from disk if available
-        st.session_state["tradelog"] = load_tradelog()
+        st.session_state["tradelog"] = load_data()
 
     tradelog = st.session_state["tradelog"]
 

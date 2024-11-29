@@ -6,6 +6,18 @@ import plotly.graph_objects as go
 from datetime import datetime
 import os
 from navigation import make_sidebar
+import requests
+from io import StringIO
+
+def load_data():
+    url = 'https://raw.githubusercontent.com/hmh0490/streamlit-journal/refs/heads/master/tradelog_updated.csv'
+    response = requests.get(url)
+    if response.status_code == 200:
+        return pd.read_csv(StringIO(response.text))
+    else:
+        st.error("Failed to load data from GitHub.")
+        return None
+
 
 # Set the page configuration to wide layout
 st.set_page_config(page_title="Trading Dashboard", layout="wide")
@@ -52,7 +64,7 @@ def load_tradelog():
 
 # Check if trade log data already exists in session_state
 if "tradelog" not in st.session_state:
-    st.session_state["tradelog"] = load_tradelog()  # Load from disk if available
+    st.session_state["tradelog"] = load_data()  # Load from disk if available
 
 # Retrieve settings from session_state
 risk_management_fee = st.session_state.get('risk_management_fee')
