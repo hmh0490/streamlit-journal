@@ -1,0 +1,180 @@
+﻿Date,Entry Time,Exit Time,Ticker,Direction,Contracts,Entry Price,Exit Price,Setup,Entry/Exit,Emotion
+2023-01-04,9:54 AM,10:30 AM,MGC,Long,3,4.69,4.92,Zone,As Planned,Greed
+2023-01-20,11:55 AM,12:29 PM,NQ,Short,2,17.36,17.12,Crusher,As Planned,By The Rules
+2023-01-20,1:50 PM,2:34 PM,MGC,Long,3,8.14,8.67,TF,As Planned,By The Rules
+2023-01-22,2:04 PM,2:33 PM,MGC,Long,4,7.91,9.11,TC,As Planned,By The Rules
+2023-01-23,12:16 PM,12:38 PM,MCL,Long,2,16.44,18.00,Other,As Planned,FOMO
+2023-02-01,11:57 AM,12:41 PM,CL,Short,1,15.23,14.87,REV,As Planned,Bored
+2023-02-01,2:25 PM,2:57 PM,MGC,Long,5,1.84,2.13,Crusher,As Planned,FOMO
+2023-02-03,12:29 PM,12:39 PM,NQ,Long,2,25.05,26.97,REV,As Planned,By The Rules
+2023-02-21,2:36 PM,3:16 PM,GC,Long,4,26.11,27.00,DDV,As Planned,By The Rules
+2023-03-02,10:08 AM,10:33 AM,MNQ,Long,7,14.88,15.69,Crusher,Stop to tight,By The Rules
+2023-03-07,9:03 AM,9:29 AM,ES,Long,2,18.78,17.91,TF,As Planned,By The Rules
+2023-03-09,11:20 AM,11:55 AM,MCL,Long,2,7.94,7.57,IFN,As Planned,By The Rules
+2023-03-10,2:34 PM,3:15 PM,YM,Short,2,18.75,19.20,REV,Too Late,Distracted
+2023-03-24,10:50 AM,11:19 AM,MES,Short,9,21.89,17.70,TC,As Planned,By The Rules
+2023-03-31,10:30 AM,10:58 AM,GC,Short,1,5.54,4.58,Sniper,First 30 min,Distracted
+2023-04-01,3:59 PM,4:15 PM,MES,Short,1,26.33,24.85,REV,As Planned,FOMO
+2023-04-08,3:47 PM,4:20 PM,MYM,Short,6,23.20,20.85,Other,As Planned,By The Rules
+2023-04-12,10:06 AM,10:26 AM,MGC,Long,3,6.57,6.78,TF,As Planned,FOMO
+2023-04-22,3:54 PM,4:32 PM,MGC,Long,5,10.59,12.00,Zone,As Planned,By The Rules
+2023-04-25,12:44 PM,1:15 PM,MYM,Short,2,13.73,11.79,Crusher,As Planned,By The Rules
+2023-04-26,2:32 PM,3:04 PM,MCL,Long,3,19.13,20.00,Tug Of War,As Planned,Fear
+2023-05-01,9:23 AM,9:59 AM,MGC,Short,2,6.61,6.46,HY,As Planned,By The Rules
+2023-05-05,11:23 AM,11:33 AM,MCL,Short,4,28.80,28.99,TC,As Planned,By The Rules
+2023-05-08,9:22 AM,9:55 AM,MES,Long,2,7.10,8.00,TF,As Planned,By The Rules
+2023-05-13,3:48 PM,4:02 PM,MNQ,Short,5,2.71,2.56,DDV,Stop to tight,Fear
+2023-05-20,1:53 PM,2:32 PM,YM,Short,9,27.85,28.16,REV,As Planned,Tired
+2023-05-31,2:59 PM,3:39 PM,ES,Short,4,10.60,9.38,DDV,As Planned,By The Rules
+2023-06-09,11:20 AM,11:55 AM,MGC,Short,4,6.38,6.62,REV,As Planned,By The Rules
+2023-06-19,1:42 PM,1:54 PM,MNQ,Long,2,19.30,21.00,TC,As Planned,Bored
+2023-06-22,2:21 PM,3:04 PM,GC,Short,8,26.06,25.30,REV,As Planned,By The Rules
+2023-06-23,3:18 PM,3:36 PM,CL,Long,2,23.98,24.00,Zone,As Planned,By The Rules
+2023-07-03,10:16 AM,10:52 AM,MGC,Short,6,11.05,10.00,IFN,As Planned,By The Rules
+2023-07-14,12:12 PM,12:41 PM,MGC,Long,10,11.21,12.00,Other,As Planned,By The Rules
+2023-07-23,11:59 AM,12:14 PM,MYM,Long,1,7.32,6.55,TF,Too Late,By The Rules
+2023-08-03,11:05 AM,11:19 AM,MES,Long,6,9.76,10.56,DDV,As Planned,Hope
+2023-08-07,9:26 AM,9:39 AM,ES,Long,3,24.23,28.00,Sniper,Too Late,By The Rules
+2023-08-21,9:09 AM,9:25 AM,YM,Short,7,5.86,5.98,TC,As Planned,By The Rules
+2023-08-23,10:00 AM,10:14 AM,MYM,Long,6,12.07,9.70,Tug Of War,Too Late,By The Rules
+2023-08-25,1:06 PM,1:19 PM,NQ,Long,3,18.79,19.50,Crusher,Stop to tight,By The Rules
+2023-08-26,11:22 AM,11:39 AM,MYM,Long,5,22.21,22.65,Tug Of War,Didn't Check News,Greed
+2023-09-12,12:56 PM,1:32 PM,MNQ,Short,3,24.54,26.35,Tug Of War,As Planned,By The Rules
+2023-09-18,11:09 AM,11:49 AM,GC,Long,4,21.66,22.03,TC,As Planned,By The Rules
+2023-09-22,11:23 AM,12:03 PM,GC,Short,4,25.14,24.85,Other,As Planned,Distracted
+2023-09-23,9:58 AM,10:31 AM,MCL,Short,3,23.84,23.12,Sniper,Not In Plan,Tired
+2023-09-25,11:23 AM,12:02 PM,MGC,Long,4,22.27,18.98,TC,As Planned,By The Rules
+2023-10-06,2:50 PM,3:15 PM,MYM,Short,9,4.71,4.37,TF,As Planned,By The Rules
+2023-10-18,10:01 AM,10:45 AM,ES,Long,2,20.56,21.00,Crusher,Didn't Check News,Tired
+2023-10-23,9:51 AM,10:35 AM,YM,Short,5,14.94,16.52,Other,As Planned,Tired
+2023-10-26,10:11 AM,10:32 AM,GC,Short,5,4.82,4.99,IFN,As Planned,By The Rules
+2023-10-28,2:54 PM,3:39 PM,MCL,Long,1,8.58,7.07,DDV,As Planned,By The Rules
+2023-10-29,12:15 PM,12:56 PM,MNQ,Long,5,14.68,17.00,TF,As Planned,By The Rules
+2023-10-30,3:47 PM,4:27 PM,GC,Long,1,13.96,13.42,TF,As Planned,Bored
+2023-11-16,9:08 AM,9:47 AM,MNQ,Long,8,21.06,22.00,REV,As Planned,By The Rules
+2023-11-21,2:20 PM,3:04 PM,MNQ,Short,10,17.70,18.78,TF,Not In Plan,By The Rules
+2023-11-26,2:29 PM,3:13 PM,MES,Short,1,4.34,15.00,Sniper,As Planned,By The Rules
+2023-11-27,1:18 PM,1:43 PM,MCL,Short,4,14.17,13.00,TC,Too Late,By The Rules
+2023-12-04,10:26 AM,10:46 AM,GC,Long,5,3.32,4.00,Other,As Planned,By The Rules
+2023-12-10,1:41 PM,2:20 PM,YM,Short,3,25.47,24.68,Sniper,As Planned,By The Rules
+2023-12-11,1:10 PM,1:33 PM,NQ,Short,1,26.43,24.00,Other,As Planned,By The Rules
+2023-12-20,10:00 AM,10:26 AM,MCL,Short,5,17.85,19.59,Sniper,Too Late,Distracted
+2023-12-25,12:39 PM,1:17 PM,NQ,Short,4,3.55,3.38,Sniper,As Planned,By The Rules
+2024-01-01,2:18 PM,3:00 PM,MCL,Long,6,6.75,7.00,Sniper,As Planned,By The Rules
+2024-01-05,12:46 PM,1:11 PM,MES,Short,1,1.24,1.10,Sniper,As Planned,By The Rules
+2024-01-05,1:55 PM,2:37 PM,MGC,Long,2,21.26,18.72,TF,As Planned,By The Rules
+2024-01-07,3:53 PM,4:24 PM,ES,Long,4,4.19,4.53,TC,As Planned,Bored
+2024-01-17,10:48 AM,11:02 AM,MCL,Long,6,9.13,10.37,Crusher,As Planned,By The Rules
+2024-01-22,12:41 PM,1:10 PM,MCL,Short,7,19.93,19.79,TF,As Planned,By The Rules
+2024-01-26,12:58 PM,1:13 PM,MYM,Short,9,22.94,25.24,TF,As Planned,Greed
+2024-01-31,10:17 AM,10:41 AM,NQ,Short,2,11.31,11.72,Tug Of War,Stop to tight,By The Rules
+2024-02-01,3:18 PM,3:51 PM,MCL,Long,3,20.00,21.50,TF,Not In Plan,By The Rules
+2024-02-03,12:23 PM,12:39 PM,MNQ,Short,7,5.28,5.47,Zone,As Planned,By The Rules
+2024-02-10,12:43 PM,1:22 PM,NQ,Short,2,16.79,15.00,TC,As Planned,By The Rules
+2024-02-12,10:55 AM,11:32 AM,GC,Long,7,1.54,0.70,Tug Of War,As Planned,Distracted
+2024-02-15,2:38 PM,3:14 PM,MES,Long,8,3.92,4.53,TF,As Planned,Distracted
+2024-02-16,10:48 AM,11:15 AM,MCL,Short,6,3.38,2.70,TF,Stop to tight,By The Rules
+2024-02-19,9:31 AM,9:44 AM,NQ,Long,9,29.31,31.72,IFN,Not In Plan,By The Rules
+2024-02-19,11:51 AM,12:16 PM,MES,Long,8,16.72,16.87,TF,As Planned,By The Rules
+2024-02-29,2:39 PM,2:55 PM,GC,Long,1,22.39,23.00,DDV,Too Late,By The Rules
+2024-03-08,10:48 AM,11:27 AM,GC,Long,6,20.93,21.12,HY,As Planned,By The Rules
+2024-03-16,10:41 AM,11:09 AM,MCL,Short,3,8.79,7.04,DDV,As Planned,By The Rules
+2024-03-18,10:41 AM,10:55 AM,ES,Long,1,24.59,25.00,HY,As Planned,By The Rules
+2024-03-25,11:33 AM,11:53 AM,MGC,Long,2,9.70,10.05,Sniper,As Planned,By The Rules
+2024-04-01,9:58 AM,10:35 AM,CL,Short,2,29.02,30.00,Other,First 30 min,By The Rules
+2024-04-01,3:55 PM,4:19 PM,YM,Long,7,21.02,19.93,TF,First 30 min,By The Rules
+2024-04-12,1:53 PM,2:04 PM,YM,Short,6,14.53,13.36,HY,Too Late,By The Rules
+2024-04-25,9:58 AM,10:24 AM,GC,Long,1,11.46,10.88,IFN,As Planned,FOMO
+2024-04-30,3:53 PM,4:08 PM,MCL,Long,1,28.11,29.50,Zone,Not In Plan,By The Rules
+2024-05-13,1:17 PM,1:47 PM,MYM,Long,9,9.90,10.23,Crusher,Not In Plan,Hope
+2024-05-15,3:19 PM,4:01 PM,MES,Short,2,22.57,21.37,Zone,Broke Rules,By The Rules
+2024-05-26,1:46 PM,2:01 PM,YM,Long,9,17.86,18.78,Crusher,Broke Rules,By The Rules
+2024-06-21,11:56 AM,12:38 PM,MGC,Short,10,14.96,15.11,Zone,Too Late,Tired
+2024-06-25,9:48 AM,10:03 AM,MCL,Long,4,23.75,24.50,Crusher,As Planned,Tired
+2024-07-03,3:45 PM,4:00 PM,GC,Short,4,16.22,15.08,Tug Of War,Broke Rules,By The Rules
+2024-07-06,12:01 PM,12:46 PM,YM,Long,9,3.62,4.00,Sniper,As Planned,By The Rules
+2024-07-07,12:56 PM,1:09 PM,GC,Long,3,23.85,25.00,IFN,Broke Rules,FOMO
+2024-07-14,3:42 PM,4:21 PM,MCL,Short,3,5.05,4.31,Other,First 30 min,By The Rules
+2024-07-30,3:26 PM,3:47 PM,YM,Short,2,24.53,25.26,TF,As Planned,Distracted
+2024-08-03,1:26 PM,2:04 PM,MES,Long,6,26.25,28.00,Crusher,Broke Rules,Tired
+2024-08-22,1:36 PM,1:51 PM,MCL,Long,2,26.53,27.00,TC,Too Late,By The Rules
+2024-08-26,2:17 PM,2:55 PM,MYM,Short,4,20.33,19.85,Crusher,As Planned,Distracted
+2024-08-28,11:33 AM,11:51 AM,NQ,Short,4,40.00,38.00,Tug Of War,Too Late,By The Rules
+2024-08-30,9:58 AM,10:39 AM,MCL,Long,6,20.00,22.00,Crusher,Too Late,FOMO
+2024-09-02,2:39 PM,3:00 PM,NQ,Long,6,10.00,11.00,Sniper,As Planned,By The Rules
+2024-09-04,10:17 AM,10:59 AM,GC,Short,2,30.00,27.00,TC,As Planned,By The Rules
+2024-09-05,3:53 PM,4:37 PM,YM,Long,3,10.00,12.00,TC,As Planned,By The Rules
+2024-09-09,12:39 PM,1:06 PM,GC,Short,4,50.00,52.00,HY,As Planned,Tired
+2024-09-12,9:48 AM,10:30 AM,NQ,Long,1,20.00,22.00,Sniper,As Planned,By The Rules
+2024-09-12,1:53 PM,2:04 PM,MCL,Long,4,25.00,22.00,IFN,Too Late,By The Rules
+2024-09-14,3:45 PM,3:57 PM,MES,Long,6,10.00,11.00,REV,Broke Rules,By The Rules
+2024-09-16,11:56 AM,12:17 PM,NQ,Long,3,15.00,17.00,Tug Of War,Not In Plan,FOMO
+2024-09-16,3:53 PM,4:05 PM,NQ,Short,2,20.00,19.00,Zone,Too Late,Greed
+2024-09-17,11:56 AM,12:14 PM,MCL,Long,4,22.50,23.00,Zone,Broke Rules,By The Rules
+2024-09-17,3:53 PM,4:34 PM,ES,Short,3,19.00,17.00,Zone,Not In Plan,Tired
+2024-09-19,1:36 PM,2:21 PM,YM,Long,2,10.00,9.00,Tug Of War,As Planned,FOMO
+2024-09-20,1:36 PM,1:48 PM,MCL,Long,2,15.00,14.00,HY,As Planned,Distracted
+2024-09-20,2:17 PM,2:51 PM,MNQ,Short,1,9.00,8.00,REV,Broke Rules,By The Rules
+2024-09-21,10:15 AM,10:45 AM,ES,Long,2,25.00,28.00,Zone,As Planned,By The Rules
+2024-09-21,1:00 PM,1:30 PM,NQ,Short,6,35.00,33.00,Crusher,Too Early,Fear
+2024-09-22,11:00 AM,11:30 AM,MES,Long,3,27.00,30.00,Sniper,Too Late,Tired
+2024-09-22,2:30 PM,3:15 PM,GC,Short,2,40.00,38.00,HY,Broke Rules,Greed
+2024-09-23,9:30 AM,10:00 AM,MES,Long,5,15.00,14.00,Crusher,Not In Plan,Hope
+2024-09-23,12:30 PM,1:15 PM,YM,Short,4,30.00,25.00,REV,Stop to tight,FOMO
+2024-09-24,10:20 AM,10:50 AM,MGC,Long,3,35.00,40.00,Zone,As Planned,By The Rules
+2024-09-24,1:45 PM,2:15 PM,MYM,Short,4,40.00,38.00,Sniper,Didn't Check News,Distracted
+2024-09-25,9:45 AM,10:20 AM,ES,Long,1,25.00,26.00,HY,Too Late,Fear
+2024-09-25,11:30 AM,12:00 PM,GC,Short,3,38.00,35.00,Crusher,Broke Rules,Greed
+2024-09-26,10:00 AM,10:30 AM,NQ,Long,6,30.00,32.00,Zone,First 30 min,Bored
+2024-09-26,12:45 PM,1:15 PM,MYM,Short,2,40.00,35.00,REV,Stop to tight,Hope
+2024-09-27,10:30 AM,11:00 AM,MNQ,Long,5,35.00,40.00,Sniper,As Planned,By The Rules
+2024-09-27,1:10 PM,1:40 PM,ES,Short,2,30.00,25.00,Crusher,Too Early,FOMO
+2024-09-28,11:00 AM,11:30 AM,GC,Long,2,15.00,17.00,Zone,Too Late,Tired
+2024-09-28,2:15 PM,2:45 PM,GC,Short,3,25.00,22.00,Sniper,Broke Rules,Greed
+2024-09-29,9:30 AM,10:00 AM,MCL,Long,1,30.00,25.00,HY,First 30 min,Hope
+2024-09-29,12:40 PM,1:15 PM,MGC,Short,7,40.00,38.00,REV,Didn't Check News,Distracted
+2024-09-30,10:20 AM,10:50 AM,MYM,Long,3,25.00,22.00,Crusher,Too Late,Fear
+2024-09-30,1:30 PM,2:00 PM,MNQ,Short,5,38.00,35.00,Zone,Stop to tight,Greed
+2024-10-01,9:50 AM,10:20 AM,CL,Long,1,30.00,29.00,REV,Not In Plan,FOMO
+2024-10-01,12:10 PM,12:40 PM,MES,Short,4,20.00,17.00,Sniper,As Planned,By The Rules
+2024-10-02,10:05 AM,10:35 AM,ES,Long,1,10.00,11.00,Crusher,First 30 min,Hope
+2024-10-02,1:15 PM,1:45 PM,NQ,Short,2,25.00,21.00,Zone,Too Early,Tired
+2024-10-03,9:40 AM,10:10 AM,GC,Long,2,30.00,32.00,HY,Broke Rules,Fear
+2024-10-03,12:50 PM,1:20 PM,MCL,Short,1,35.00,30.00,REV,Didn't Check News,Distracted
+2024-10-04,10:25 AM,10:55 AM,MES,Long,7,15.00,14.00,Zone,Too Late,Greed
+2024-10-04,2:15 PM,2:45 PM,MNQ,Short,4,35.00,30.00,Sniper,Stop to tight,FOMO
+2024-10-05,9:35 AM,10:05 AM,ES,Long,2,20.00,22.00,Crusher,As Planned,By The Rules
+2024-10-06,10:00 AM,10:30 AM,GC,Short,2,38.00,35.00,REV,As Planned,By The Rules
+2024-10-06,1:15 PM,1:45 PM,NQ,Long,3,25.00,28.00,Zone,Too Late,Fear
+2024-10-07,9:30 AM,10:00 AM,MES,Short,5,35.00,30.00,Crusher,Too Early,By The Rules
+2024-10-07,12:20 PM,12:50 PM,CL,Short,1,20.00,21.00,HY,As Planned,By The Rules
+2024-10-08,11:00 AM,11:30 AM,MGC,Short,7,40.00,38.00,Zone,Stop to tight,FOMO
+2024-10-08,2:30 PM,3:00 PM,MNQ,Long,8,35.00,40.00,Crusher,Didn't Check News,Greed
+2024-10-09,10:10 AM,10:40 AM,YM,Short,4,30.00,25.00,Sniper,As Planned,Fear
+2024-10-09,1:30 PM,2:00 PM,ES,Long,1,20.00,21.00,REV,As Planned,By The Rules
+2024-10-10,9:50 AM,10:20 AM,NQ,Short,3,35.00,30.00,HY,Broke Rules,Distracted
+2024-10-10,12:40 PM,1:10 PM,GC,Long,2,15.00,17.00,Crusher,First 30 min,Tired
+2024-10-11,10:15 AM,10:45 AM,MES,Short,2,25.00,20.00,Zone,As Planned,By The Rules
+2024-10-11,1:00 PM,1:30 PM,CL,Long,1,30.00,31.00,Sniper,As Planned,Hope
+2024-10-12,10:30 AM,11:00 AM,MGC,Short,7,40.00,38.00,REV,Didn't Check News,By The Rules
+2024-10-12,2:20 PM,2:50 PM,MNQ,Long,8,25.00,27.00,HY,As Planned,By The Rules
+2024-10-13,9:45 AM,10:15 AM,MCL,Short,3,27.00,30.00,Crusher,As Planned,By The Rules
+2024-10-13,12:30 PM,1:00 PM,YM,Long,4,20.00,18.00,Zone,As Planned,By The Rules
+2024-10-14,11:10 AM,11:40 AM,NQ,Short,3,15.00,13.00,REV,Stop to tight,Tired
+2024-10-14,1:50 PM,2:20 PM,GC,Long,1,30.00,32.00,Sniper,As Planned,By The Rules
+2024-10-15,10:05 AM,10:35 AM,MES,Short,2,38.00,35.00,HY,As Planned,Hope
+2024-10-15,2:10 PM,2:40 PM,NQ,Long,1,20.00,22.00,Crusher,As Planned,By The Rules
+2024-10-16,9:20 AM,9:50 AM,MGC,Short,5,40.00,35.00,Zone,Didn't Check News,Greed
+2024-10-16,12:00 PM,12:30 PM,MNQ,Long,4,30.00,32.00,REV,Not In Plan,Distracted
+2024-10-17,10:30 AM,11:00 AM,MCL,Short,1,15.00,17.00,HY,Broke Rules,Fear
+2024-10-17,1:15 PM,1:45 PM,ES,Long,6,25.00,22.00,Crusher,As Planned,FOMO
+2024-10-18,10:45 AM,11:15 AM,NQ,Short,2,30.00,25.00,Zone,As Planned,By The Rules
+2024-10-18,12:50 PM,1:20 PM,GC,Long,2,20.00,18.00,Sniper,As Planned,By The Rules
+2024-10-19,9:30 AM,10:00 AM,MES,Short,5,38.00,40.00,REV,Too Early,Tired
+2024-10-19,1:00 PM,1:30 PM,MNQ,Long,4,15.00,10.00,HY,Didn't Check News,By The Rules
+2024-10-20,10:10 AM,10:40 AM,MGC,Short,8,40.00,38.00,Crusher,Not In Plan,Fear
+2024-10-20,2:30 PM,3:00 PM,MNQ,Long,6,30.00,32.00,Zone,As Planned,By The Rules
+2024-11-10,9:50 AM,10:20 AM,MCL,Short,2,15.00,17.00,REV,As Planned,Tired
+2024-11-10,12:15 PM,12:45 PM,ES,Long,1,25.00,28.00,HY,As Planned,By The Rules
+2024-11-11,10:30 AM,11:00 AM,NQ,Short,2,30.00,25.00,Sniper,As Planned,By The Rules
+2024-11-11,2:00 PM,2:30 PM,GC,Long,1,20.00,22.00,Crusher,Didn't Check News,Hope
