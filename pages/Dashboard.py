@@ -206,46 +206,6 @@ if "tradelog" in st.session_state and st.session_state["tradelog"] is not None:
             # Display the chart in Streamlit
             st.plotly_chart(fig, use_container_width=True)
 
-
-
-
-            # Data preparation
-            performance_data = {
-                "Category": ["Long Trades", "Short Trades"],
-                "Net PnL": [long_pnl, short_pnl],
-                "Percentage": [long_pnl_percentage, short_pnl_percentage]}
-
-            performance_df = pd.DataFrame(performance_data)
-
-            ### Create a pie chart using Plotly ###
-            fig_pie = px.pie(
-                performance_df,
-                names="Category",
-                values="Net PnL",
-                color="Category",
-                color_discrete_map={"Long Trades": "#6AB187", "Short Trades": "#D94758"},)
-
-            fig_pie.update_traces(
-                texttemplate='$%{value:,.2f} (%{percent:.0%})',
-                hovertemplate='$%{value:,.2f} (%{percent:.0%})',
-                textposition='inside',
-                textfont_size=14,)
-
-            # Customize the chart layout
-            fig_pie.update_traces(
-                textinfo='percent+label',
-                hovertemplate='%{label}: %{value:$,.2f} <br>(%{percent:.2f})',
-                textposition='inside')
-
-            # Adjust the size of the pie chart
-            fig_pie.update_layout(
-                height=400,  # Set the height to a smaller value
-                width=400,  # Set the width to a smaller value
-                margin=dict(l=15, r=15, t=15, b=15),
-                legend=dict(orientation="v", yanchor="middle", y=0.5, xanchor="left", x=1.1))
-
-            st.plotly_chart(fig_pie, use_container_width=True)
-
         with col2:
             # Define the percentage intervals and initialize the count
             intervals = [
@@ -452,6 +412,44 @@ if "tradelog" in st.session_state and st.session_state["tradelog"] is not None:
                 st.markdown(f"P/L Ratio: **{pl_ratio:.2f}**")
                 st.markdown(f"Expectancy: **{expectancy:.2f}**")
 
+            with st.container():
+               ### Create a pie chart using Plotly ###
+                # Data preparation
+                performance_data = {
+                    "Category": ["Long Trades", "Short Trades"],
+                    "Net PnL": [long_pnl, short_pnl],
+                    "Percentage": [long_pnl_percentage, short_pnl_percentage]}
+
+                performance_df = pd.DataFrame(performance_data)
+
+                fig_pie = px.pie(
+                    performance_df,
+                    names="Category",
+                    values="Net PnL",
+                    color="Category",
+                    color_discrete_map={"Long Trades": "#6AB187", "Short Trades": "#D94758"},)
+
+                fig_pie.update_traces(
+                    texttemplate='$%{value:,.2f} (%{percent:.0%})',
+                    hovertemplate='$%{value:,.2f} (%{percent:.0%})',
+                    textposition='inside',
+                    textfont_size=14,)
+
+                # Customize the chart layout
+                fig_pie.update_traces(
+                    textinfo='percent+label',
+                    hovertemplate='%{label}: %{value:$,.2f} <br>(%{percent:.2f})',
+                    textposition='inside')
+
+                # Adjust the size of the pie chart
+                fig_pie.update_layout(
+                    height=200,  # Set the height to a smaller value
+                    width=200,  # Set the width to a smaller value
+                    margin=dict(l=18, r=18, t=18, b=18),
+                    legend=dict(orientation="v", yanchor="middle", y=0.5, xanchor="left", x=1.1))
+
+                st.plotly_chart(fig_pie, use_container_width=True)
+
     with tab2:
         ### Calculate Performance metrics ###
         col1, col2, col3 = st.columns([0.8, 2, 1])
@@ -644,7 +642,7 @@ if "tradelog" in st.session_state and st.session_state["tradelog"] is not None:
 
     with tab3:
 
-        col1, col2, col3 = st.columns([0.5, 0.7, 0.5])
+        col1, col2, col3 = st.columns([0.5, 0.6, 0.5])
 
         with col2:
             # Calculate metrics for all trades and last 20 trades
